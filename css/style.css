@@ -1,0 +1,35 @@
+.navbar-brand{
+	font-family: 'Viga', sans-serif;
+}
+h2 {
+	color: #FFD700;
+}
+
+/*.jumbotron img {
+    width: 200px;
+    height: 200px;
+}*/
+.jumbotron {
+	height: 600px;
+	background-image: url(https://jahidinsh.github.io/img/thumbs/5.png);
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+l {
+	font-family: 'Viga', sans-serif;
+}
+N:link, N:visited {
+		  background-color: #218838;
+		  color: white;
+		  padding: 14px 25px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		}
+
+		N:hover, N:active {
+		  background-color: red;
+		}
+a {
+	color: #ffff;
+}
